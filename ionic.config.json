@@ -1,0 +1,7 @@
+{
+  "name": "kdoc-integration",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
